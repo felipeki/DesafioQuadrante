@@ -1,0 +1,16 @@
+C:\Users\felipe\desafio\DesafioQuadrante\bin\Debug\net5.0\DesafioQuadrante.exe
+C:\Users\felipe\desafio\DesafioQuadrante\bin\Debug\net5.0\DesafioQuadrante.deps.json
+C:\Users\felipe\desafio\DesafioQuadrante\bin\Debug\net5.0\DesafioQuadrante.runtimeconfig.json
+C:\Users\felipe\desafio\DesafioQuadrante\bin\Debug\net5.0\DesafioQuadrante.runtimeconfig.dev.json
+C:\Users\felipe\desafio\DesafioQuadrante\bin\Debug\net5.0\DesafioQuadrante.dll
+C:\Users\felipe\desafio\DesafioQuadrante\bin\Debug\net5.0\ref\DesafioQuadrante.dll
+C:\Users\felipe\desafio\DesafioQuadrante\bin\Debug\net5.0\DesafioQuadrante.pdb
+C:\Users\felipe\desafio\DesafioQuadrante\obj\Debug\net5.0\DesafioQuadrante.csprojAssemblyReference.cache
+C:\Users\felipe\desafio\DesafioQuadrante\obj\Debug\net5.0\DesafioQuadrante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe\desafio\DesafioQuadrante\obj\Debug\net5.0\DesafioQuadrante.AssemblyInfoInputs.cache
+C:\Users\felipe\desafio\DesafioQuadrante\obj\Debug\net5.0\DesafioQuadrante.AssemblyInfo.cs
+C:\Users\felipe\desafio\DesafioQuadrante\obj\Debug\net5.0\DesafioQuadrante.csproj.CoreCompileInputs.cache
+C:\Users\felipe\desafio\DesafioQuadrante\obj\Debug\net5.0\DesafioQuadrante.dll
+C:\Users\felipe\desafio\DesafioQuadrante\obj\Debug\net5.0\ref\DesafioQuadrante.dll
+C:\Users\felipe\desafio\DesafioQuadrante\obj\Debug\net5.0\DesafioQuadrante.pdb
+C:\Users\felipe\desafio\DesafioQuadrante\obj\Debug\net5.0\DesafioQuadrante.genruntimeconfig.cache
